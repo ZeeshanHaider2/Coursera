@@ -1,0 +1,26 @@
+body{
+background:skyblue;
+}
+
+a{
+color:gray;
+text-decoration:none;
+}
+
+a:hover{
+	color:red;
+	background:white;
+	
+}
+
+h1{
+	font-family:sans-serif;
+	font-family: 100pt;
+}
+
+.indent {
+	margin-left:10px;
+}
+.thin_border{
+	border: 1px solid black;
+}

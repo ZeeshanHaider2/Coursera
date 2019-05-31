@@ -1,0 +1,51 @@
+body{
+	
+
+     background:gray;
+	
+     color:green;
+
+
+}
+
+
+a {
+    
+  color:yellow;
+  text-decoration:none;
+}
+
+a:hover{
+
+  color:black;
+  background:white;
+}
+
+.greenlink:hover{
+
+  color:red;
+  background:blue;
+
+}
+
+h1{
+    font-family:monospace;
+    font-size:50pt;
+
+}
+
+.indent{
+
+   margin-left:100px;
+
+}
+
+.gap_below{
+
+   margin-bottom:150px;
+
+}
+
+.thin_border{
+	border: 5px solid black;
+}
